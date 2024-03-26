@@ -1,4 +1,8 @@
-# Internal-security-audit
+# Project Name: Internal-security-audit
+
+## Objective
+The audit project is to make sure the audit to aligns current business practices with industry standards and best practices. The audit is meant to provide mitigation recommendations for vulnerabilities found that are classified as “high risk,” and present an overall strategy for improving the security posture of the organization. The audit team documents the findings, provide remediation plans and efforts, and communicate with stakeholders.
+
 
 ## Administrative Controls
 | Control Name                                  |    Control type and explanation  | Needs to be implemented | Priority |
@@ -32,10 +36,27 @@
 | Signage indicating alarm service | Deterrent; makes the likelihood of a successful attack seem low| X | Low|
 | provider
 | Locks
-Preventative; physical and digital assets are more secure
-X
-High
+Preventative; physical and digital assets are more secure | X | High |
 |Fire detection and prevention (fire alarm, sprinkler system, etc.)| Detective/Preventative; detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc. |X | Medium/Low|
+
+## Skills Learned
+- Development of critical thinking
+- Understanding auditing frameworks
+- Up-to-date knowledge of threats and tactics
+- Ability to identify risky IT procedures
+- Ability to identify potential software and hardware vulnerabilities
+- Experience with risk management and mitigation
+- Technical skills required to assess the status of networks and systems
+
+  ## Tools
+  - Compliance checklist
+
+  ## Steps
+- Step 1: Access supporting materials
+- Step 2: Analyze the audit scope, goals, and risk assessment
+- Step 3: Conduct the audit: Controls assessment
+- Step 4: Conduct the audit: Compliance checklist
+- Step 5: Assess your activity
 
 
 
